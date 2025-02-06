@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-02-06 at 23 14 58_6457cff1](https://github.com/user-attachments/assets/04cf9523-a45a-408d-b2eb-c968c1ad2ffd)Nama : Rizko Fahrezy
+Nama : Rizko Fahrezy
 NIM : 09030582327094
 
 Prodi : Teknik Komputer

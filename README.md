@@ -44,6 +44,21 @@ width="200">
     <img src="https://github.com/user-attachments/assets/543fe0ee-f6d6-4240-87b8-46a49450f189" alt="image"
 width="200">
 
+    klick add
+   
+    <img src="https://github.com/user-attachments/assets/69d0579a-65fb-40d0-84fc-ed3b4ab4695d" alt="image"
+width="200">
+
+   pilih read/write
+   
+    <img src="https://github.com/user-attachments/assets/af452fae-7ffe-425f-ba42-1f8c04142a56" alt="image"
+width="200">
+
+   lalu selanjutnya klick share
+   
+    <img src="https://github.com/user-attachments/assets/d640e36f-5b24-4e99-881e-abfe34c6d7fb" alt="image"
+width="200">
+
 
 11. folder selesai di share
     
@@ -68,6 +83,10 @@ Mengatur IP Address, Subnet Mask, dan Default Gateway secara manual memastikan b
 Pengguna membuka pengaturan folder, memilih opsi "Properties", kemudian mengaktifkan fitur sharing untuk berbagi file. Dalam pengaturan sharing, pengguna menambahkan "Everyone" sebagai user yang dapat mengakses folder dan memberikan hak akses penuh dengan mencentang opsi "Allow" untuk Read, Write, dan Modify. Dengan mengklik "Share" dan menyelesaikan pengaturan berbagi, folder yang dipilih akan tersedia untuk diakses oleh perangkat lain dalam jaringan.
 
 Kesimpulan:
+Dengan memasukkan IP Address dari laptop yang berbagi folder di Windows Explorer, pengguna dapat melihat folder yang telah dibagikan dan mengakses file di dalamnya. Proses berbagi folder melalui jaringan peer-to-peer menggunakan kabel UTP ini berhasil dilakukan dengan langkah-langkah yang sistematis. Keberhasilan koneksi dapat dipastikan dengan uji ping, dan akses terhadap folder dapat dikontrol melalui pengaturan sharing. Dengan metode ini, pengguna dapat bertukar file antar perangkat tanpa perlu bergantung pada internet atau penyimpanan cloud.
+
+Namun, beberapa hal yang perlu diperhatikan untuk meningkatkan keamanan dan stabilitas adalah memastikan firewall tidak memblokir koneksi jaringan lokal, menggunakan kata sandi untuk membatasi akses folder hanya bagi pengguna yang berwenang, dan jika jaringan lebih kompleks, mempertimbangkan penggunaan switch atau router untuk manajemen jaringan yang lebih baik. Dengan memahami konsep ini, pengguna dapat dengan mudah mengimplementasikan solusi berbagi file dalam lingkungan kerja atau rumah tanpa perlu perangkat tambahan selain kabel dan pengaturan jaringan yang tepat.
+
 
 
 

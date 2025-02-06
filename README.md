@@ -39,26 +39,11 @@ width="200">
       <img src="https://github.com/user-attachments/assets/30b791b8-f80a-4c90-9206-ecddfd2c2a81" alt="image"
 width="200">
 
-7. selanjutnya masuk ke choose people to share with pilih everyone
+7. ketika masuk choose file to share with pilih every one
    
-         <img src="https://github.com/user-attachments/assets/515d17ff-d0fa-42fe-a0a5-c03e602a5bb9" alt="image"
+    <img src="https://github.com/user-attachments/assets/543fe0ee-f6d6-4240-87b8-46a49450f189" alt="image"
 width="200">
 
-8. klick add
-   
-            <img src="https://github.com/user-attachments/assets/6e496be1-6fad-4375-89e2-8419994f312c" alt="image"
-width="200">
-
-9.pilih read/ write
-
-     <img src="https://github.com/user-attachments/assets/deb3c3ad-ea43-48a9-8121-5298cadb30ed" alt="image"
-width="200">
-
-
-10. lalu klick share
-    
-     <img src="https://github.com/user-attachments/assets/1272f183-e6cc-4ca7-82e7-edbfc10a2f63"alt="image"
-width="200"> 
 
 11. folder selesai di share
     
